@@ -1,0 +1,2 @@
+#!/bin/bash
+cp documents/project/14-copy_html/*.html documents/0x00-shell_basics
