@@ -1,2 +1,2 @@
 #!/bin/bash
-"*.html" glob
+cp -r /copy_html/14-copy_html/*.html /0x00-shell_basics/14-copy_html

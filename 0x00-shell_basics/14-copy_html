@@ -1,2 +1,2 @@
 #!/bin/bash
-cp documents/project/14-copy_html/*.html documents/0x00-shell_basics
+cp -v /alx-system_engineering-devops/0x00-shell_basics/14-copy_html/"*.html" /alx-system_engineering-devops/14-copy_html
