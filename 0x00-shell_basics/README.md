@@ -1,1 +1,2 @@
-used #!/bin/sh to make script
+#!/bin/sh
+ls
