@@ -1,2 +1,0 @@
-#!/bin/bash
-cp -v /alx-system_engineering-devops/0x00-shell_basics/14-copy_html/"*.html" /alx-system_engineering-devops/14-copy_html
