@@ -1,0 +1,2 @@
+#!/bin/bash
+New-Variable -Scope global -BEST a -School "One"
