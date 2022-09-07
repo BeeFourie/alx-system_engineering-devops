@@ -1,2 +1,2 @@
 #!/bin/bash
-printlines[input, 6, All, 3]
+printlines[ls -1, 6, All, 3]
