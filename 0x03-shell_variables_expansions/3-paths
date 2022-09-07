@@ -1,2 +1,2 @@
 #!/bin/bash
-countdir $PATH
+find. - type d ls $PATH
