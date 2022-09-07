@@ -1,2 +1,2 @@
 #!/bin/bash
-ls (find. - type d) $PATH  
+$ tree tail -1 $PATH  
