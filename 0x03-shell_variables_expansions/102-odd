@@ -1,0 +1,2 @@
+#!/bin/bash
+printlines[input, 6, All, 3]
